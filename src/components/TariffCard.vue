@@ -105,7 +105,7 @@ export default {
 
 .card__more-arrow_active {
   margin-top: 3px;
-  rotate: 90deg;
+  transform: rotate(90deg);
 }
 
 @media screen and (max-width: 1224px) {
