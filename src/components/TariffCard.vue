@@ -21,7 +21,7 @@
         class="card__more-arrow"
         :class="{ 'card__more-arrow_active': showPossibility }"
       >
-        🢒
+        >
       </p>
     </div>
 
@@ -99,12 +99,12 @@ export default {
 }
 
 .card__more-arrow {
-  font-size: 30px;
-  line-height: 20px;
+  font-size: 20px;
+  line-height: 22px;
 }
 
 .card__more-arrow_active {
-  margin-top: 5px;
+  margin-top: 3px;
   rotate: 90deg;
 }
 
