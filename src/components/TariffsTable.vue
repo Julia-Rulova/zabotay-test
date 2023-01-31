@@ -332,13 +332,14 @@ export default {
 
 @media screen and (max-width: 1224px) {
   .table__th {
-    padding: 8px 27px 8px 12px !important;
+    padding: 8px 33px 8px 12px !important;
   }
 }
 
 @media screen and (max-width: 432px) {
   .table__th {
     width: 150px;
+    padding: 8px 27px 8px 12px !important;
   }
 
   .table__item {
