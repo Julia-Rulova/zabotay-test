@@ -330,7 +330,7 @@ export default {
   right: 10px;
 }
 
-@media screen and (max-width: 432px) {
+@media screen and (max-width: 1224px) {
   .table__th {
     padding: 8px 27px 8px 12px !important;
   }
