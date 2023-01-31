@@ -333,6 +333,7 @@ export default {
 @media screen and (max-width: 432px) {
   .table__th {
     width: 150px;
+    padding: 8px 27px 8px 12px !important;
   }
 
   .table__item {
