@@ -2,7 +2,7 @@
 
 Тестовое задание для комапнии Zabotay
 
-- Ссылка на [сайт](https://zabotay-test.vercel.app/)
+Ссылка на [сайт](https://zabotay-test.vercel.app/)
 
 ## Project setup
 
